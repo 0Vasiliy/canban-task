@@ -40,8 +40,8 @@
   const getAllCards = async () => {
     try {
       await axios
-        // .get('https://fakestoreapi.com/products')
-        .get('../src/db.json')
+        .get('https://fakestoreapi.com/products')
+        // .get('./db.json')
         .then((res) => (firstList.value = res.data));
       console.log('getAllCards - успешно');
     } catch (error) {

@@ -5,7 +5,7 @@
 - Vuetify
 - Axios
 - SCSS
-# Для подключения к placholder https://fakestoreapi.com/products используется VPN
+## Для подключения к placholder https://fakestoreapi.com/products используется VPN
 ## Project setup
 git clone 
 cd project

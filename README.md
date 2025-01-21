@@ -6,6 +6,7 @@
 - Axios
 - SCSS
 ### Для подключения к placholder https://fakestoreapi.com/products используется VPN
+### Deploy https://0vasiliy.github.io/canban-task/
 ### Project setup
 - git clone 
 - cd project
